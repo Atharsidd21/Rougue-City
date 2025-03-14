@@ -152,6 +152,21 @@
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalActors__/GameLevel/8/KS/6KOPDV42V0MWKU86Q10ORD.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/GameLevel.umap",
 				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/GM_Player.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/Weapons/E_Weapons.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/ABP_SandboxCharacter.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/Pistol/PistolIdle.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/Pistol/Hit.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/Pistol/PistolAim.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/Pistol/PistolFire.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Quinn.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_UE4_Mannequin.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolAim.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolFire.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolIdle.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/Hit.uasset",
+				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/Weapons/E_wEAPOS.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset",
@@ -296,11 +311,7 @@
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset",
 				"E:/GitHub/Rougue-City/RougueCity/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset",
-				"E:/GitHub/Rougue-City/RougueCity/Content/NewMap.umap",
-				"E:/GitHub/Rougue-City/RougueCity/Content/Blueprints/CBP_SandboxCharacter.uasset",
-				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolAim.uasset",
-				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolFire.uasset",
-				"E:/GitHub/Rougue-City/RougueCity/Content/Characters/Shooting/Weapons/PistolIdle.uasset"
+				"E:/GitHub/Rougue-City/RougueCity/Content/NewMap.umap"
 			]
 		}
 	]
