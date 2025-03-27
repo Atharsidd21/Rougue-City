@@ -1,2 +1,3 @@
-2025/03/26-16:22:29.320 21d4 Creating DB E:/GitHub/Rougue-City/RougueCity/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/03/26-16:22:29.620 21d4 Reusing MANIFEST E:/GitHub/Rougue-City/RougueCity/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/27-16:56:30.882 dd8 Reusing MANIFEST E:/GitHub/Rougue-City/RougueCity/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/03/27-16:56:30.894 dd8 Recovering log #3
+2025/03/27-16:56:30.895 dd8 Reusing old log E:/GitHub/Rougue-City/RougueCity/Saved/webcache_4430\Local Storage\leveldb/000003.log 
